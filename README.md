@@ -488,13 +488,13 @@ A comprehensive **IEEE-style technical report** is included as [`report.pdf`](re
 
 ---
 
-## 👥 Authors
+## Authors
 
 ### Emre Aydoğmuş
-- 🎓 AI & Data Engineering, Istanbul Technical University
+- AI & Data Engineering, Istanbul Technical University
 
 ### Baturalp Taha Yılmaz
-- 🎓 AI & Data Engineering, Istanbul Technical University
+- AI & Data Engineering, Istanbul Technical University
 
 
 ---
@@ -511,10 +511,10 @@ A comprehensive **IEEE-style technical report** is included as [`report.pdf`](re
 
 <div align="center">
 
-**⚡ Powering the future with intelligent forecasting ⚡**
+**Powering the future with intelligent forecasting**
 
 Made with ❤️ by Emre Aydoğmuş
 
-[⬆ Back to Top](#-short-term-electricity-demand-forecasting-with-hybrid-deep-learning)
+[Back to Top](#-short-term-electricity-demand-forecasting-with-hybrid-deep-learning)
 
 </div>
